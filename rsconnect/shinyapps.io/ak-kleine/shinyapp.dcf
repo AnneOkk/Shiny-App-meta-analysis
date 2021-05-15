@@ -1,0 +1,10 @@
+name: shinyapp
+title:
+username:
+account: ak-kleine
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3037156
+bundleId: 3751772
+url: https://ak-kleine.shinyapps.io/shinyapp/
+when: 1602922882.07291
